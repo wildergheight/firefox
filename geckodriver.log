@@ -1,0 +1,278 @@
+1731631020166	geckodriver	INFO	Listening on 127.0.0.1:65450
+1731631142020	geckodriver	INFO	Listening on 127.0.0.1:65493
+1731631145077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofileT2KZUc"
+1731631182905	geckodriver	INFO	Listening on 127.0.0.1:65534
+1731631185962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofilexZyG8j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731631186259	Marionette	INFO	Marionette enabled
+1731631186371	Marionette	INFO	Listening on port 49160
+WebDriver BiDi listening on ws://127.0.0.1:49152
+Read port: 49160
+1731631186495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1731631195724	Marionette	INFO	Stopped listening on port 49160
+Dynamically enable window occlusion 1
+1731631261053	geckodriver	INFO	Listening on 127.0.0.1:49193
+1731631264104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofilee7Fkdw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731631264355	Marionette	INFO	Marionette enabled
+1731631264463	Marionette	INFO	Listening on port 49202
+WebDriver BiDi listening on ws://127.0.0.1:49194
+Read port: 49202
+1731631264577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+console.error: ({})
+1731631457620	Marionette	INFO	Stopped listening on port 49202
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1731631837616	geckodriver	INFO	Listening on 127.0.0.1:49430
+1731631840650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofilesbMjPH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731631840907	Marionette	INFO	Marionette enabled
+1731631841016	Marionette	INFO	Listening on port 49440
+WebDriver BiDi listening on ws://127.0.0.1:49431
+Read port: 49440
+1731631841136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1731631842601	Marionette	INFO	Stopped listening on port 49440
+Dynamically enable window occlusion 1
+1731632330960	geckodriver	INFO	Listening on 127.0.0.1:49817
+1731632333998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofileJGg91H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731632334245	Marionette	INFO	Marionette enabled
+1731632334356	Marionette	INFO	Listening on port 49826
+WebDriver BiDi listening on ws://127.0.0.1:49818
+Read port: 49826
+1731632334470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1731632378297	Marionette	INFO	Stopped listening on port 49826
+JavaScript warning: https://www.youtube.com/s/desktop/bce3d284/jsbin/live_chat_polymer.vflset/live_chat_polymer.js, line 1248: Script terminated by timeout at:
+Zm/<@https://www.youtube.com/s/desktop/bce3d284/jsbin/live_chat_polymer.vflset/live_chat_polymer.js:1248:47
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1731652099700	geckodriver	INFO	Listening on 127.0.0.1:51997
+1731652102742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofilebmOSgd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731652102981	Marionette	INFO	Marionette enabled
+1731652103092	Marionette	INFO	Listening on port 52005
+WebDriver BiDi listening on ws://127.0.0.1:51998
+Read port: 52005
+1731652103210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.gstatic.com/og/_/js/k=og.qtm.en_US.Ed7fPZdAP88.2019.O/rt=j/m=qabr,q_dnp,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTsAQtU7Exa5LSjaPuQb-KRl1yfMjA, line 19: Script terminated by timeout at:
+_.Re@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.Ed7fPZdAP88.2019.O/rt=j/m=qabr,q_dnp,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTsAQtU7Exa5LSjaPuQb-KRl1yfMjA:19:328
+_.Se@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.Ed7fPZdAP88.2019.O/rt=j/m=qabr,q_dnp,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTsAQtU7Exa5LSjaPuQb-KRl1yfMjA:20:25
+lf@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.Ed7fPZdAP88.2019.O/rt=j/m=qabr,q_dnp,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTsAQtU7Exa5LSjaPuQb-KRl1yfMjA:29:38
+b@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.Ed7fPZdAP88.2019.O/rt=j/m=qabr,q_dnp,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTsAQtU7Exa5LSjaPuQb-KRl1yfMjA:26:473
+
+1731655882085	Marionette	INFO	Stopped listening on port 52005
+Dynamically enable window occlusion 1
+1731656018880	geckodriver	INFO	Listening on 127.0.0.1:54520
+1731656021937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofilecen0G9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731656022195	Marionette	INFO	Marionette enabled
+1731656022301	Marionette	INFO	Listening on port 54530
+WebDriver BiDi listening on ws://127.0.0.1:54521
+Read port: 54530
+1731656022413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+Exiting due to channel error.
+1731656612201	geckodriver	INFO	Listening on 127.0.0.1:54662
+1731656615230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofileq7HMdG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731656615490	Marionette	INFO	Marionette enabled
+1731656615616	Marionette	INFO	Listening on port 54671
+WebDriver BiDi listening on ws://127.0.0.1:54663
+Read port: 54671
+1731656615732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+1731656733385	geckodriver	INFO	Listening on 127.0.0.1:54730
+1731656736443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofileuiRMGS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731656736697	Marionette	INFO	Marionette enabled
+1731656736814	Marionette	INFO	Listening on port 54745
+WebDriver BiDi listening on ws://127.0.0.1:54731
+Read port: 54745
+1731656736935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+1731657059716	geckodriver	INFO	Listening on 127.0.0.1:54829
+1731657062765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofileuQCoTa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731657063008	Marionette	INFO	Marionette enabled
+1731657063115	Marionette	INFO	Listening on port 54838
+WebDriver BiDi listening on ws://127.0.0.1:54830
+Read port: 54838
+1731657063229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-jose-sharks-vs-new-york-rangers-fd079f663e0a5c41fed600f03644043f/" ({})
+Exiting due to channel error.
+1731778388692	geckodriver	INFO	Listening on 127.0.0.1:59976
+1731778391753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dylan\\AppData\\Local\\Temp\\rust_mozprofilezluavP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1731778392004	Marionette	INFO	Marionette enabled
+1731778392126	Marionette	INFO	Listening on port 59988
+WebDriver BiDi listening on ws://127.0.0.1:59977
+Read port: 59988
+1731778392244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 373: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/tennessee-volunteers-vs-georgia-bulldogs-b7bbe548bf6d5efb53b2a65c8747c767/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/tennessee-volunteers-vs-georgia-bulldogs-b7bbe548bf6d5efb53b2a65c8747c767/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-diego-state-aztecs-vs-unlv-rebels-de4efbb34b63fa034d553cfb616c244c/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/tennessee-volunteers-vs-georgia-bulldogs-b7bbe548bf6d5efb53b2a65c8747c767/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-diego-state-aztecs-vs-unlv-rebels-de4efbb34b63fa034d553cfb616c244c/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/tennessee-volunteers-vs-georgia-bulldogs-b7bbe548bf6d5efb53b2a65c8747c767/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-diego-state-aztecs-vs-unlv-rebels-de4efbb34b63fa034d553cfb616c244c/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/tennessee-volunteers-vs-georgia-bulldogs-b7bbe548bf6d5efb53b2a65c8747c767/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-diego-state-aztecs-vs-unlv-rebels-de4efbb34b63fa034d553cfb616c244c/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/tennessee-volunteers-vs-georgia-bulldogs-b7bbe548bf6d5efb53b2a65c8747c767/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/san-diego-state-aztecs-vs-unlv-rebels-de4efbb34b63fa034d553cfb616c244c/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/tennessee-volunteers-vs-georgia-bulldogs-b7bbe548bf6d5efb53b2a65c8747c767/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/oregon-ducks-vs-wisconsin-badgers-0242db4d76ac4c0e8fa10d282293de4d/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://thetvapp.to/event/utah-utes-vs-colorado-buffaloes-fe838c1ea48e936dc0639da966430cdf/" ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 365: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3263: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 245: TypeError: this.manager is null
+console.error: ({})
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 218: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 177: Error: TelemetryStopwatch: finishing nonexisting stopwatch. Histogram: "FULLSCREEN_CHANGE_MS", key: ""
+Exiting due to channel error.
+Exiting due to channel error.
